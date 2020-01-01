@@ -3,7 +3,7 @@
  * Snapcord                                      *
  *                                               *
  * Copyright © 2020 Elitis. All rights reserved. *
- * Licensed under 3.0 of the APGL.               *
+ * Licensed under 3.0 of the AGPL.               *
  *************************************************/
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
     function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }

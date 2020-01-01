@@ -2,7 +2,7 @@
  * Snapcord                                      *
  *                                               *
  * Copyright © 2020 Elitis. All rights reserved. *
- * Licensed under 3.0 of the APGL.               *
+ * Licensed under 3.0 of the AGPL.               *
  *************************************************/
 
 import { Client } from "eris";
